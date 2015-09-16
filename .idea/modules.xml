@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Tickets.iml" filepath="$PROJECT_DIR$/Tickets.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/../MavenShop-img/MavenShop.iml" filepath="$PROJECT_DIR$/../MavenShop-img/MavenShop.iml" />
+>>>>>>> 4d98a1b633754358bb284d18526eb8ac92c23bc2
     </modules>
   </component>
 </project>

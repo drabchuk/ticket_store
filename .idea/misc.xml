@@ -4,12 +4,20 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+<<<<<<< HEAD
     <file type="web" url="file://$PROJECT_DIR$" />
+=======
+    <file type="web" url="file://$PROJECT_DIR$/../MavenShop-img" />
+>>>>>>> 4d98a1b633754358bb284d18526eb8ac92c23bc2
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/../MavenShop-img/pom.xml" />
+>>>>>>> 4d98a1b633754358bb284d18526eb8ac92c23bc2
       </list>
     </option>
   </component>
